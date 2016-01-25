@@ -58,9 +58,6 @@
         ]]>
     </string>
     <string name="kontakt_text">Contact</string>
-    <string name="vyvojariText">Vývojári:</string>
-    <string name="vyvojari">a HaK Solutions</string>
-    <string name="designed">Designed by Radovan Pranda (Deltoy)</string>
-
+    <string name="email">holubjan@gmail.com kocan.marek@gmail.com</string>
 
 </resources>

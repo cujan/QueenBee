@@ -17,17 +17,23 @@ int drawable queenb2_resized 0x7f020007
 int id adView 0x7f0a001b
 int id adjust_height 0x7f0a0000
 int id adjust_width 0x7f0a0001
+<<<<<<< HEAD
 int id contactText 0x7f0a0021
 int id displayDate 0x7f0a0008
 int id do_kalendara 0x7f0a0005
+=======
+int id contact_text 0x7f0a0020
+int id displayDate 0x7f0a0008
+int id do_kalendara 0x7f0a0005
+int id email 0x7f0a0021
+>>>>>>> parent of eff2430... uprava  vzhlad sekcia vyvoj
 int id kontrolaZavieckovania 0x7f0a000e
 int id liahnutie 0x7f0a0012
-int id linearLayout 0x7f0a001c
 int id mainLayout 0x7f0a0003
 int id none 0x7f0a0002
 int id note 0x7f0a0004
-int id novy_chov 0x7f0a001e
-int id o_programe 0x7f0a0020
+int id novy_chov 0x7f0a001d
+int id o_programe 0x7f0a001f
 int id preletDo 0x7f0a0017
 int id preletOd 0x7f0a0016
 int id prelozenieSerie 0x7f0a000c
@@ -38,18 +44,27 @@ int id prenikanieSpermii 0x7f0a0019
 int id preveseniePlastu 0x7f0a0009
 int id pripravaSadky 0x7f0a000b
 int id prveNakladeneVajicka 0x7f0a001a
+<<<<<<< HEAD
 int id settings 0x7f0a0024
+=======
+int id settings 0x7f0a0023
+>>>>>>> parent of eff2430... uprava  vzhlad sekcia vyvoj
 int id skolkovanie 0x7f0a0010
 int id snubnePrelety 0x7f0a0018
 int id textDate 0x7f0a0007
-int id title_text 0x7f0a001d
+int id title_text 0x7f0a001c
 int id ulozit_event 0x7f0a0006
 int id vaznenieDo 0x7f0a0015
 int id vaznenieOd 0x7f0a0014
 int id vlozenieSuse 0x7f0a000a
+<<<<<<< HEAD
 int id vyvojariText 0x7f0a0022
 int id web 0x7f0a0023
 int id zoznam_chovov 0x7f0a001f
+=======
+int id web 0x7f0a0022
+int id zoznam_chovov 0x7f0a001e
+>>>>>>> parent of eff2430... uprava  vzhlad sekcia vyvoj
 int id zuzitkovanieMatiek 0x7f0a0013
 int integer google_play_services_version 0x7f080000
 int layout data_container 0x7f030000
@@ -82,11 +97,10 @@ int string date_old 0x7f050010
 int string date_text 0x7f050011
 int string decline 0x7f05003c
 int string delete 0x7f050012
-int string designed 0x7f05003d
 int string detail 0x7f050013
 int string email 0x7f050035
-int string ga_trackingId 0x7f05003e
-int string kontakt_text 0x7f05003f
+int string ga_trackingId 0x7f05003d
+int string kontakt_text 0x7f05003e
 int string kontrola_zavieckovania 0x7f050014
 int string liahnutie 0x7f050015
 int string list_queens_help 0x7f050016
@@ -113,15 +127,13 @@ int string prve_nakladene_vajicka 0x7f050029
 int string settings 0x7f05002a
 int string skolkovanie 0x7f05002b
 int string snubne_prelety 0x7f05002c
-int string store_picture_message 0x7f050040
-int string store_picture_title 0x7f050041
+int string store_picture_message 0x7f05003f
+int string store_picture_title 0x7f050040
 int string ulozit_event 0x7f05002d
 int string vaznenie_do 0x7f05002e
 int string vaznenie_od 0x7f05002f
 int string vlozenie_plemeniva 0x7f050030
 int string vlozenie_suse 0x7f050031
-int string vyvojari 0x7f050042
-int string vyvojariText 0x7f050043
 int string writing_to_calendar 0x7f050032
 int string zoznam_chovov 0x7f050033
 int string zuzitkovanie_matiek 0x7f050034

@@ -9,8 +9,7 @@
     <LinearLayout
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:orientation="vertical"
-        android:id="@+id/linearLayout">
+        android:orientation="vertical" >
 
         <TextView
             android:id="@+id/title_text"
@@ -61,8 +60,10 @@
     </LinearLayout>
 
     <TextView
+        android:id="@+id/contact_text"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+<<<<<<< HEAD
         android:textAppearance="?android:attr/textAppearanceSmall"
         android:text="@string/kontakt_text"
         android:id="@+id/contactText"
@@ -70,16 +71,41 @@
         android:layout_alignParentLeft="true"
         android:layout_marginLeft="63dp"
         android:layout_marginBottom="87dp" />
+=======
+        android:layout_gravity="bottom"
+        android:clickable="true"
+        android:gravity="center"
+        android:paddingLeft="8dip"
+        android:paddingRight="8dip"
+        android:paddingTop="18dip"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="78dp"
+        android:text="@string/kontakt_text"
+        android:singleLine="true"
+        android:layout_marginLeft="51dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true" />
+>>>>>>> parent of eff2430... uprava  vzhlad sekcia vyvoj
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+<<<<<<< HEAD
         android:textAppearance="?android:attr/textAppearanceSmall"
         android:text="@string/vyvojariText"
         android:id="@+id/vyvojariText"
         android:layout_above="@+id/contactText"
         android:layout_alignLeft="@+id/contactText"
         android:layout_marginBottom="66dp" />
+=======
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/email"
+        android:id="@+id/email"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="26dp"
+        android:layout_alignLeft="@+id/contact_text" />
+>>>>>>> parent of eff2430... uprava  vzhlad sekcia vyvoj
 
 
 </RelativeLayout>
