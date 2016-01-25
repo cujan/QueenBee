@@ -57,22 +57,36 @@
             android:onClick="onOPrograme"
             android:text="@string/o_programe" />
 
-        <TextView
-            android:id="@+id/contact"
-            android:layout_width="fill_parent"
-            android:layout_height="wrap_content"
-            android:layout_gravity="bottom"
-            android:clickable="true"
-            android:gravity="center"
-            android:paddingLeft="8dip"
-            android:paddingRight="8dip"
-            android:paddingTop="18dip"
-            android:textSize="12sp"
-            android:textStyle="bold" />
     </LinearLayout>
 
+    <TextView
+        android:id="@+id/contact_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:clickable="true"
+        android:gravity="center"
+        android:paddingLeft="8dip"
+        android:paddingRight="8dip"
+        android:paddingTop="18dip"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="78dp"
+        android:text="@string/kontakt_text"
+        android:singleLine="true"
+        android:layout_marginLeft="51dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true" />
 
-
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/email"
+        android:id="@+id/email"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="26dp"
+        android:layout_alignLeft="@+id/contact_text" />
 
 
 </RelativeLayout>

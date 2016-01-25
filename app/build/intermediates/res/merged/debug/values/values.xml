@@ -35,7 +35,9 @@
     <string name="decline">Decline</string>
     <string name="delete">Delete record from database</string>
     <string name="detail">Show schedules for the record</string>
+    <string name="email">holubjan@gmail.com kocan.marek@gmail.com</string>
     <string name="ga_trackingId">UA-40195333-1</string>
+    <string name="kontakt_text">Contact</string>
     <string name="kontrola_zavieckovania">Maybe check capping</string>
     <string name="liahnutie">hatching mothers</string>
     <string name="list_queens_help">Hold the line for more options</string>
@@ -46,7 +48,7 @@
     <string name="novy_chov">New rearing</string>
     <string name="o_programe">About the program</string>
     <string name="ok">OK</string>
-    <string name="popis_programu">Calendar breeding mothers used to layout the different steps for beekeeping mothers. For Android 4.0 and above allows you to save the notification of the individual steps in the calendar.\nContact: polnohospodari@polnohospodari.sk</string>
+    <string name="popis_programu">Calendar breeding mothers used to layout the different steps for beekeeping mothers. For Android 4.0 and above allows you to save the notification of the individual steps in the calendar.</string>
     <string name="prelet_do">Approximately overflights mothers to</string>
     <string name="prelet_od">Approximately overflights by mothers</string>
     <string name="prelozenie_serie">Translated into a series of supers nurse colonies</string>

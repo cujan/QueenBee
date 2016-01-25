@@ -24,7 +24,7 @@ public class MainActivity extends FragmentActivity {
 		setContentView(R.layout.single_column_main);
 
 		TextView titleText = (TextView) this.findViewById(R.id.title_text);
-		TextView contact = (TextView) this.findViewById(R.id.contact);
+		TextView contact = (TextView) this.findViewById(R.id.contact_text);
 		Button novyChov = (Button) this.findViewById(R.id.novy_chov);
 		Button zoznamChovov = (Button) this.findViewById(R.id.zoznam_chovov);
 		Button oPrograme = (Button) this.findViewById(R.id.o_programe);
