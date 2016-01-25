@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <bool name="ga_autoActivityTracking">true</bool>
+    <bool name="ga_reportUncaughtExceptions">true</bool>
+    <declare-styleable name="AdsAttrs"><attr format="string" name="adSize"/><attr format="string" name="adSizes"/><attr format="string" name="adUnitId"/></declare-styleable>
+    <declare-styleable name="LoadingImageView"><attr format="enum" name="imageAspectRatioAdjust"><enum name="none" value="0"/><enum name="adjust_width" value="1"/><enum name="adjust_height" value="2"/></attr><attr format="float" name="imageAspectRatio"/><attr format="boolean" name="circleCrop"/></declare-styleable>
+    <integer name="google_play_services_version">8487000</integer>
+    <string name="accept">Accept</string>
+    <string name="app_name">Rearing mothers calendar</string>
+    <string name="app_name_basic">QueenB</string>
+    <string name="auth_google_play_services_client_facebook_display_name">Facebook</string>
+    <string name="auth_google_play_services_client_google_display_name">Google</string>
+    <string name="calendar_created">Records were included in the calendar</string>
+    <string name="calendar_not_created">Unable to move records to the calendar</string>
+    <string name="cancel">cancel</string>
+    <string name="cas_pre_notifikaciu">Notification shall be made by:</string>
+    <string name="chov_matiek_nadpis">Breeding for mothers </string>
+    <string name="common_google_play_services_unknown_issue"><ns1:g id="app_name">%1$s</ns1:g> is having trouble with Google Play services. If the problem persists, please contact the developer for assistance.</string>
+    <string name="contact">
+        
+        &lt;u>&lt;a href="mailto:polnohospodari@polnohospodari.sk">@ HK Solutions&lt;/a>&lt;/u>
+        
+    </string>
+    <string name="create_calendar_message">Allow Ad to create a calendar event?</string>
+    <string name="create_calendar_title">Create calendar event</string>
+    <string name="date_added">Date successfully inserted into database</string>
+    <string name="date_deleted">Date has been deleted from the database and calendar events</string>
+    <string name="date_exists">Date already exists in the database</string>
+    <string name="date_not_added">Unable to insert date into database</string>
+    <string name="date_not_added_and_calendar_cancelled">Failed to insert the date into the database. Stopping saving the calendar.</string>
+    <string name="date_not_deleted">Date has not been deleted from the database</string>
+    <string name="date_not_found">Date not found</string>
+    <string name="date_old">The date is too old. Allowed a date not earlier than 23 days</string>
+    <string name="date_text"><u>Insert the date by clicking here</u></string>
+    <string name="decline">Decline</string>
+    <string name="delete">Delete record from database</string>
+    <string name="detail">Show schedules for the record</string>
+    <string name="ga_trackingId">UA-40195333-1</string>
+    <string name="kontrola_zavieckovania">Maybe check capping</string>
+    <string name="liahnutie">hatching mothers</string>
+    <string name="list_queens_help">Hold the line for more options</string>
+    <string name="no_calendar_configured">There was no calendar. Make sure it is properly configured.</string>
+    <string name="no_dates_available">no records</string>
+    <string name="note_dialog">note</string>
+    <string name="note_dialog_text">Submit a short note to record</string>
+    <string name="novy_chov">New rearing</string>
+    <string name="o_programe">About the program</string>
+    <string name="ok">OK</string>
+    <string name="popis_programu">Calendar breeding mothers used to layout the different steps for beekeeping mothers. For Android 4.0 and above allows you to save the notification of the individual steps in the calendar.\nContact: polnohospodari@polnohospodari.sk</string>
+    <string name="prelet_do">Approximately overflights mothers to</string>
+    <string name="prelet_od">Approximately overflights by mothers</string>
+    <string name="prelozenie_serie">Translated into a series of supers nurse colonies</string>
+    <string name="premiestnenie_matecniku1">Possible relocation queen cells 1</string>
+    <string name="premiestnenie_matecniku2">Possible relocation queen cells 2</string>
+    <string name="premiestnenie_matecniku3">Possible relocation queen cells 3</string>
+    <string name="prenikanie_spermii">Penetration of sperm into the seminal vesicles</string>
+    <string name="prevesenie_plastu">Any slack in pollen comb in supers</string>
+    <string name="pridat_do_kalendara">Add event to calendar</string>
+    <string name="priprava_sadky">Preparation of ponds, insertion grafting breed material</string>
+    <string name="prve_nakladene_vajicka">First spawning eggs</string>
+    <string name="settings">Settings</string>
+    <string name="skolkovanie">packing queen cells</string>
+    <string name="snubne_prelety">Wedding overflights by mothers:</string>
+    <string name="store_picture_message">"Allow Ad to store image in Picture gallery?"</string>
+    <string name="store_picture_title">Save image</string>
+    <string name="ulozit_event">Archive date farming</string>
+    <string name="vaznenie_do">	Nucleus to imprisonment</string>
+    <string name="vaznenie_od">	Imprisonment from oddielkov</string>
+    <string name="vlozenie_plemeniva">Date of adding breed material in ponds</string>
+    <string name="vlozenie_suse">Insert a land base for farming mother</string>
+    <string name="writing_to_calendar">Write an event to the calendar</string>
+    <string name="zoznam_chovov">List of holdings</string>
+    <string name="zuzitkovanie_matiek">Marking and utilization of maternal</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="Theme.IAPTheme" parent="android:Theme">
+    <item name="android:windowIsTranslucent">true</item>
+    <item name="android:windowBackground">@android:color/transparent</item>
+    <item name="android:windowContentOverlay">@null</item>
+    <item name="android:windowNoTitle">true</item>
+    <item name="android:windowIsFloating">true</item>
+    <item name="android:backgroundDimEnabled">false</item>
+  </style>
+</resources>

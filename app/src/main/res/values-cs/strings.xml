@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name_basic">QueenB</string>
+    <string name="app_name">Kalendár chovu matek</string>
+    <string name="settings">Seřizeni</string>
+    <string name="novy_chov">Nový chov</string>
+    <string name="ok">OK</string>    
+    <string name="o_programe">O programu</string>    
+    <string name="zoznam_chovov">Seznam chovú</string>
+    <string name="date_text"><u>Vložte dátum kliknutím sem</u></string>
+    <string name="vlozenie_plemeniva">Datum vložení plemeniva do sádky</string>
+    <string name="cas_pre_notifikaciu">Notifikace se má vykonat o:</string>
+    <string name="prevesenie_plastu">Případné prověšení pylového plástu do medníku</string>
+    <string name="vlozenie_suse">Vložení souše pro zakladení chovnou matkou</string>
+    <string name="priprava_sadky">Příprava sádky, vložení prelarvovaného plemeniva</string>
+    <string name="prelozenie_serie">Přeložení série do medníku do chovného včelstva</string>
+    <string name="premiestnenie_matecniku1">Možné přemístění matečníky 1</string>
+    <string name="kontrola_zavieckovania">Možná kontrola zavíčkovaných 1</string>
+    <string name="premiestnenie_matecniku2">Možné přemístění matečníky 2</string>
+    <string name="skolkovanie">Školkovani matečníku</string>
+    <string name="premiestnenie_matecniku3">Možné přemístění matečníky 3</string>
+    <string name="liahnutie">Líhnutí matek</string>
+    <string name="zuzitkovanie_matiek">Značení a zužitkování matek</string>
+    <string name="vaznenie_od">	Věznění oddielkov od</string>
+    <string name="vaznenie_do">	Věznění oddielkov do</string>
+    <string name="prelet_od">Orientační přelety matek od</string>
+    <string name="prelet_do">Orientační přelety matek do</string>
+    <string name="snubne_prelety">Rujnosť a snubní přelety matek od:</string>
+    <string name="prenikanie_spermii">Pronikání spermií do semenných váčků</string>
+    <string name="prve_nakladene_vajicka">První nakladená vajíčka</string>
+    <string name="pridat_do_kalendara">Pridej události do kalendáre</string>
+    <string name="ulozit_event">Archivuj dátum chovu</string>
+    <string name="date_not_added">Nepodařilo se vložit datum do databáze</string>
+    <string name="date_not_added_and_calendar_cancelled">Nepodařilo se vložit datum do databáze. Zastavuji ukládání do kalendáře.</string>
+    <string name="date_added">Datum úspěšně vložen do databáze</string>
+    <string name="date_deleted">Datum byl vymazán z databáze a události z kalendáře</string>
+    <string name="date_not_deleted">Datum nebyl vymazán z databáze</string>
+    <string name="date_not_found">Datum nebyl nalezen</string>
+    <string name="delete">Vymazat záznam z databáze</string>
+    <string name="detail">Zobrazit rozpis pro záznam</string>
+    <string name="no_dates_available">žádné záznamy</string>
+    <string name="date_exists">Datum již existuje v databázi</string>
+    <string name="calendar_created">Záznamy byly zařazeny do kalendáře</string>
+    <string name="calendar_not_created">Nepodařilo se zařadit záznamy do kalendáře</string>
+    <string name="date_old">Datum je příliš starý. Přípustný je datum ne starší než 23 dní</string>
+    <string name="chov_matiek_nadpis">Chov matek pro </string>
+    <string name="no_calendar_configured">Nenašel se kalendář. Zkontrolujte, zda je správně nakonfigurován.</string>
+    <string name="note_dialog">Poznámka</string>
+    <string name="note_dialog_text">Vložte krátkou poznámku k záznamu</string>
+    <string name="cancel">Zrušit</string>
+    <string name="list_queens_help">Přidržením řádku získáte více možností</string>
+    <string name="writing_to_calendar">Zapisuji události do kalendáře</string>
+    <string name="popis_programu">Kalendář chovu matek slouží na rozvržení jednotlivých kroků pro chov včelích matek. Pro Android 4.0 a vyšší umožňuje uložit notifikaci o jednotlivých krocích do kalendáře.\nKontakt: polnohospodari@polnohospodari.sk</string>
+    <string name="contact">
+        <![CDATA[
+        <u><a href="mailto:polnohospodari@polnohospodari.sk">@ HK Solutions</a></u>
+        ]]>
+    </string>
+
+</resources>

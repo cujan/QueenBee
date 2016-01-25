@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lint>
+    <issue id="InlinedApi">
+        <ignore path="src\com\hk\queenb\DatesPreparator.java" />
+    </issue>
+    <issue id="NewApi">
+        <ignore path="src/com/hk/queenb/DatesPreparator.java" />
+        <ignore path="src/com/hk/queenb/dao/SqliteDao.java" />
+        <ignore path="src\com\hk\queenb\DatesPreparator.java" />
+        <ignore path="src\com\hk\queenb\dao\SqliteDao.java" />
+    </issue>
+</lint>

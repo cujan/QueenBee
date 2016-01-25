@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Holub\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\Holub\AndroidStudioProjects\QueenB\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_5c048f08f1e5042426b303355ad85efb1f2a7114.jar" />
+    </item>
+    <item
+        jar="C:\Users\Holub\AndroidStudioProjects\QueenB\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\Holub\AndroidStudioProjects\QueenB\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_71289607c9f2bc8616ec9ceb8c9ca76b0c0ac6e7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Holub\AndroidStudioProjects\QueenB\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\Holub\AndroidStudioProjects\QueenB\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_ec01b5fa041c5c7931285cb148fcaf5165d16b2a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Holub\AndroidStudioProjects\QueenB\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Users\Holub\AndroidStudioProjects\QueenB\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.4.0_94a6c7adc2a72f9fb3410e80f120ed7248b6980c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Holub\AndroidStudioProjects\QueenB\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="C:\Users\Holub\AndroidStudioProjects\QueenB\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-8.4.0_80a6be3ac795bb7906f94d24f4bfe0db920c1712.jar" />
+    </item>
+
+</items>

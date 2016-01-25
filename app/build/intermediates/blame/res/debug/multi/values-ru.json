@@ -1,0 +1,1054 @@
+[
+    {
+        "outputFile": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\build\\intermediates\\res\\merged\\debug\\values-ru\\values-ru.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 62,
+                    "endOffset": 163
+                },
+                "from": {
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-ru\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endColumn": 62,
+                        "endOffset": 163
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 168,
+                    "endColumn": 49,
+                    "endOffset": 213
+                },
+                "from": {
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-ru\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 1,
+                        "startOffset": 54,
+                        "endColumn": 46,
+                        "endOffset": 99
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 218,
+                    "endColumn": 72,
+                    "endOffset": 286
+                },
+                "from": {
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-ru\\strings.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 3108,
+                        "endColumn": 72,
+                        "endOffset": 3176
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 291,
+                    "endColumn": 87,
+                    "endOffset": 374
+                },
+                "from": {
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-ru\\strings.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 3182,
+                        "endColumn": 87,
+                        "endOffset": 3265
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 379,
+                    "endColumn": 43,
+                    "endOffset": 418
+                },
+                "from": {
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-ru\\strings.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 3674,
+                        "endColumn": 43,
+                        "endOffset": 3713
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 423,
+                    "endColumn": 77,
+                    "endOffset": 496
+                },
+                "from": {
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-ru\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 594,
+                        "endColumn": 77,
+                        "endOffset": 667
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 501,
+                    "endColumn": 64,
+                    "endOffset": 561
+                },
+                "from": {
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-ru\\strings.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 3363,
+                        "endColumn": 64,
+                        "endOffset": 3423
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 566,
+                    "endColumn": 250,
+                    "endOffset": 812
+                },
+                "from": {
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.4.0\\res\\values-ru\\common_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 254,
+                        "endOffset": 420
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 817,
+                    "endLine": 14,
+                    "endColumn": 13,
+                    "endOffset": 968
+                },
+                "from": {
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-ru\\strings.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 4,
+                        "startOffset": 4260,
+                        "endLine": 59,
+                        "endColumn": 13,
+                        "endOffset": 4415
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 973,
+                    "endColumn": 74,
+                    "endOffset": 1043
+                },
+                "from": {
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-ru\\strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 2525,
+                        "endColumn": 74,
+                        "endOffset": 2595
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1048,
+                    "endColumn": 91,
+                    "endOffset": 1135
+                },
+                "from": {
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-ru\\strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 2601,
+                        "endColumn": 91,
+                        "endOffset": 2688
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1140,
+                    "endColumn": 72,
+                    "endOffset": 1208
+                },
+                "from": {
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-ru\\strings.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 3034,
+                        "endColumn": 72,
+                        "endOffset": 3102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1213,
+                    "endColumn": 80,
+                    "endOffset": 1289
+                },
+                "from": {
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-ru\\strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 2296,
+                        "endColumn": 80,
+                        "endOffset": 2372
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1294,
+                    "endColumn": 145,
+                    "endOffset": 1435
+                },
+                "from": {
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-ru\\strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 2378,
+                        "endColumn": 145,
+                        "endOffset": 2519
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1440,
+                    "endColumn": 75,
+                    "endOffset": 1511
+                },
+                "from": {
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-ru\\strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 2694,
+                        "endColumn": 75,
+                        "endOffset": 2765
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1516,
+                    "endColumn": 58,
+                    "endOffset": 1570
+                },
+                "from": {
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-ru\\strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 2771,
+                        "endColumn": 58,
+                        "endOffset": 2825
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1575,
+                    "endColumn": 90,
+                    "endOffset": 1661
+                },
+                "from": {
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-ru\\strings.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 3271,
+                        "endColumn": 90,
+                        "endOffset": 3357
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1666,
+                    "endColumn": 84,
+                    "endOffset": 1746
+                },
+                "from": {
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-ru\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 427,
+                        "endColumn": 84,
+                        "endOffset": 507
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1751,
+                    "endColumn": 64,
+                    "endOffset": 1811
+                },
+                "from": {
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-ru\\strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 2831,
+                        "endColumn": 64,
+                        "endOffset": 2891
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1816,
+                    "endColumn": 67,
+                    "endOffset": 1879
+                },
+                "from": {
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-ru\\strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 2897,
+                        "endColumn": 67,
+                        "endOffset": 2960
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1884,
+                    "endColumn": 66,
+                    "endOffset": 1946
+                },
+                "from": {
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-ru\\strings.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 1,
+                        "startOffset": 3893,
+                        "endColumn": 63,
+                        "endOffset": 3955
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1951,
+                    "endColumn": 96,
+                    "endOffset": 2043
+                },
+                "from": {
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-ru\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1134,
+                        "endColumn": 96,
+                        "endOffset": 1226
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2048,
+                    "endColumn": 49,
+                    "endOffset": 2093
+                },
+                "from": {
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-ru\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1484,
+                        "endColumn": 49,
+                        "endOffset": 1529
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2098,
+                    "endColumn": 96,
+                    "endOffset": 2190
+                },
+                "from": {
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-ru\\strings.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 3719,
+                        "endColumn": 96,
+                        "endOffset": 3811
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2195,
+                    "endColumn": 114,
+                    "endOffset": 2305
+                },
+                "from": {
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-ru\\strings.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 3429,
+                        "endColumn": 114,
+                        "endOffset": 3539
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 2310,
+                    "endColumn": 71,
+                    "endOffset": 2377
+                },
+                "from": {
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-ru\\strings.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 1,
+                        "startOffset": 4183,
+                        "endColumn": 68,
+                        "endOffset": 4250
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 2382,
+                    "endColumn": 66,
+                    "endOffset": 2444
+                },
+                "from": {
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-ru\\strings.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 2966,
+                        "endColumn": 66,
+                        "endOffset": 3028
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 2449,
+                    "endColumn": 47,
+                    "endOffset": 2492
+                },
+                "from": {
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-ru\\strings.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 3545,
+                        "endColumn": 47,
+                        "endOffset": 3588
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 2497,
+                    "endColumn": 78,
+                    "endOffset": 2571
+                },
+                "from": {
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-ru\\strings.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 3594,
+                        "endColumn": 78,
+                        "endOffset": 3668
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 2576,
+                    "endColumn": 53,
+                    "endOffset": 2625
+                },
+                "from": {
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-ru\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 217,
+                        "endColumn": 53,
+                        "endOffset": 266
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 2630,
+                    "endColumn": 50,
+                    "endOffset": 2676
+                },
+                "from": {
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-ru\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 311,
+                        "endColumn": 50,
+                        "endOffset": 357
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 2681,
+                    "endColumn": 33,
+                    "endOffset": 2710
+                },
+                "from": {
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-ru\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 272,
+                        "endColumn": 33,
+                        "endOffset": 301
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2715,
+                    "endColumn": 219,
+                    "endOffset": 2930
+                },
+                "from": {
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-ru\\strings.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 3965,
+                        "endColumn": 219,
+                        "endOffset": 4180
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 2935,
+                    "endColumn": 70,
+                    "endOffset": 3001
+                },
+                "from": {
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-ru\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1824,
+                        "endColumn": 70,
+                        "endOffset": 1890
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 3006,
+                    "endColumn": 69,
+                    "endOffset": 3071
+                },
+                "from": {
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-ru\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1753,
+                        "endColumn": 69,
+                        "endOffset": 1818
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 3076,
+                    "endColumn": 94,
+                    "endOffset": 3166
+                },
+                "from": {
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-ru\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 946,
+                        "endColumn": 94,
+                        "endOffset": 1036
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 3171,
+                    "endColumn": 90,
+                    "endOffset": 3257
+                },
+                "from": {
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-ru\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1042,
+                        "endColumn": 90,
+                        "endOffset": 1128
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 3262,
+                    "endColumn": 90,
+                    "endOffset": 3348
+                },
+                "from": {
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-ru\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1232,
+                        "endColumn": 90,
+                        "endOffset": 1318
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 3353,
+                    "endColumn": 90,
+                    "endOffset": 3439
+                },
+                "from": {
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-ru\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1392,
+                        "endColumn": 90,
+                        "endOffset": 1478
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 3444,
+                    "endColumn": 82,
+                    "endOffset": 3522
+                },
+                "from": {
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-ru\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1990,
+                        "endColumn": 82,
+                        "endOffset": 2068
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 3527,
+                    "endColumn": 94,
+                    "endOffset": 3617
+                },
+                "from": {
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-ru\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 673,
+                        "endColumn": 94,
+                        "endOffset": 763
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 3622,
+                    "endColumn": 76,
+                    "endOffset": 3694
+                },
+                "from": {
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-ru\\strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 2145,
+                        "endColumn": 76,
+                        "endOffset": 2217
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 3699,
+                    "endColumn": 98,
+                    "endOffset": 3793
+                },
+                "from": {
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-ru\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 846,
+                        "endColumn": 98,
+                        "endOffset": 940
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 3798,
+                    "endColumn": 69,
+                    "endOffset": 3863
+                },
+                "from": {
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-ru\\strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 2074,
+                        "endColumn": 69,
+                        "endOffset": 2139
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 3868,
+                    "endColumn": 46,
+                    "endOffset": 3910
+                },
+                "from": {
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-ru\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 169,
+                        "endColumn": 46,
+                        "endOffset": 211
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 3915,
+                    "endColumn": 66,
+                    "endOffset": 3977
+                },
+                "from": {
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-ru\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1324,
+                        "endColumn": 66,
+                        "endOffset": 1386
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 3982,
+                    "endColumn": 92,
+                    "endOffset": 4070
+                },
+                "from": {
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-ru\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1896,
+                        "endColumn": 92,
+                        "endOffset": 1984
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 4075,
+                    "endColumn": 71,
+                    "endOffset": 4142
+                },
+                "from": {
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-ru\\strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 2223,
+                        "endColumn": 71,
+                        "endOffset": 2290
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 4147,
+                    "endColumn": 65,
+                    "endOffset": 4208
+                },
+                "from": {
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-ru\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1686,
+                        "endColumn": 65,
+                        "endOffset": 1747
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 4213,
+                    "endColumn": 64,
+                    "endOffset": 4273
+                },
+                "from": {
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-ru\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1620,
+                        "endColumn": 64,
+                        "endOffset": 1680
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 4278,
+                    "endColumn": 79,
+                    "endOffset": 4353
+                },
+                "from": {
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-ru\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 513,
+                        "endColumn": 79,
+                        "endOffset": 588
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 4358,
+                    "endColumn": 75,
+                    "endOffset": 4429
+                },
+                "from": {
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-ru\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 769,
+                        "endColumn": 75,
+                        "endOffset": 840
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 4434,
+                    "endColumn": 77,
+                    "endOffset": 4507
+                },
+                "from": {
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-ru\\strings.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 3817,
+                        "endColumn": 77,
+                        "endOffset": 3890
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 4512,
+                    "endColumn": 58,
+                    "endOffset": 4566
+                },
+                "from": {
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-ru\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 367,
+                        "endColumn": 58,
+                        "endOffset": 421
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 4571,
+                    "endColumn": 83,
+                    "endOffset": 4650
+                },
+                "from": {
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-ru\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1535,
+                        "endColumn": 83,
+                        "endOffset": 1614
+                    }
+                }
+            }
+        ]
+    }
+]

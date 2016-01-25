@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\single_column_main.xml",
+        "source": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\layout\\single_column_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\new_queen.xml",
+        "source": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\layout\\new_queen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\web_layout.xml",
+        "source": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\layout\\web_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\data_container.xml",
+        "source": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\layout\\data_container.xml"
+    }
+]
