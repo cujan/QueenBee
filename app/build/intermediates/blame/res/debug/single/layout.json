@@ -1,5 +1,21 @@
 [
     {
+        "merged": "G:\\QueenBee\\QueenBee\\app\\build\\intermediates\\res\\merged\\debug\\layout\\data_container.xml",
+        "source": "G:\\QueenBee\\QueenBee\\app\\src\\main\\res\\layout\\data_container.xml"
+    },
+    {
+        "merged": "G:\\QueenBee\\QueenBee\\app\\build\\intermediates\\res\\merged\\debug\\layout\\web_layout.xml",
+        "source": "G:\\QueenBee\\QueenBee\\app\\src\\main\\res\\layout\\web_layout.xml"
+    },
+    {
+        "merged": "G:\\QueenBee\\QueenBee\\app\\build\\intermediates\\res\\merged\\debug\\layout\\new_queen.xml",
+        "source": "G:\\QueenBee\\QueenBee\\app\\src\\main\\res\\layout\\new_queen.xml"
+    },
+    {
+        "merged": "G:\\QueenBee\\QueenBee\\app\\build\\intermediates\\res\\merged\\debug\\layout\\single_column_main.xml",
+        "source": "G:\\QueenBee\\QueenBee\\app\\src\\main\\res\\layout\\single_column_main.xml"
+    },
+    {
         "merged": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\build\\intermediates\\res\\merged\\debug\\layout\\single_column_main.xml",
         "source": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\layout\\single_column_main.xml"
     },

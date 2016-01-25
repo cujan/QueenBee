@@ -1,5 +1,9 @@
 [
     {
+        "merged": "G:\\QueenBee\\QueenBee\\app\\build\\intermediates\\res\\merged\\debug\\xml\\settings.xml",
+        "source": "G:\\QueenBee\\QueenBee\\app\\src\\main\\res\\xml\\settings.xml"
+    },
+    {
         "merged": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\build\\intermediates\\res\\merged\\debug\\xml\\settings.xml",
         "source": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\xml\\settings.xml"
     }

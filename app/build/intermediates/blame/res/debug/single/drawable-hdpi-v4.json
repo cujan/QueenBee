@@ -12,7 +12,23 @@
         "source": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\drawable-hdpi\\background_uvod.png"
     },
     {
+        "merged": "G:\\QueenBee\\QueenBee\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bee_resized.png",
+        "source": "G:\\QueenBee\\QueenBee\\app\\src\\main\\res\\drawable-hdpi\\bee_resized.png"
+    },
+    {
+        "merged": "G:\\QueenBee\\QueenBee\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\background_uvod.png",
+        "source": "G:\\QueenBee\\QueenBee\\app\\src\\main\\res\\drawable-hdpi\\background_uvod.png"
+    },
+    {
         "merged": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bee_resized.png",
         "source": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\drawable-hdpi\\bee_resized.png"
+    },
+    {
+        "merged": "G:\\QueenBee\\QueenBee\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\queenb2_resized.png",
+        "source": "G:\\QueenBee\\QueenBee\\app\\src\\main\\res\\drawable-hdpi\\queenb2_resized.png"
+    },
+    {
+        "merged": "G:\\QueenBee\\QueenBee\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "G:\\QueenBee\\QueenBee\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
     }
 ]

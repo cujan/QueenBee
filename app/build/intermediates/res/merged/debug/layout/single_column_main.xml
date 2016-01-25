@@ -63,22 +63,13 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:textAppearance="?android:attr/textAppearanceLarge"
-        android:text="holubjan@gmail.com kocan.marek@gmail.com"
-        android:id="@+id/emaily"
-        android:layout_marginBottom="28dp"
-        android:layout_alignParentBottom="true"
-        android:layout_alignParentLeft="true"
-        android:layout_marginLeft="56dp" />
-
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceSmall"
         android:text="@string/kontakt_text"
         android:id="@+id/contactText"
-        android:layout_above="@+id/emaily"
-        android:layout_alignLeft="@+id/emaily" />
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="63dp"
+        android:layout_marginBottom="87dp" />
 
     <TextView
         android:layout_width="wrap_content"
@@ -86,30 +77,9 @@
         android:textAppearance="?android:attr/textAppearanceSmall"
         android:text="@string/vyvojariText"
         android:id="@+id/vyvojariText"
-        android:layout_marginTop="75dp"
-        android:layout_below="@+id/linearLayout"
-        android:layout_alignLeft="@+id/contactText" />
-
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:textAppearance="?android:attr/textAppearanceSmall"
-        android:text="@string/vyvojari"
-        android:id="@+id/vyvojari"
-        android:layout_below="@+id/vyvojariText"
-        android:layout_alignParentLeft="true"
-        android:layout_marginLeft="38dp"
-        android:layout_marginTop="8dp" />
-
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:textAppearance="?android:attr/textAppearanceSmall"
-        android:text="@string/designed"
-        android:id="@+id/designed"
-        android:layout_below="@+id/vyvojari"
-        android:layout_alignLeft="@+id/vyvojari"
-        android:layout_marginTop="7dp" />
+        android:layout_above="@+id/contactText"
+        android:layout_alignLeft="@+id/contactText"
+        android:layout_marginBottom="66dp" />
 
 
 </RelativeLayout>

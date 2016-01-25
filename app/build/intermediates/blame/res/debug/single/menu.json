@@ -2,5 +2,9 @@
     {
         "merged": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\build\\intermediates\\res\\merged\\debug\\menu\\options_menu.xml",
         "source": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\menu\\options_menu.xml"
+    },
+    {
+        "merged": "G:\\QueenBee\\QueenBee\\app\\build\\intermediates\\res\\merged\\debug\\menu\\options_menu.xml",
+        "source": "G:\\QueenBee\\QueenBee\\app\\src\\main\\res\\menu\\options_menu.xml"
     }
 ]

@@ -80,11 +80,9 @@ containing a value of this type.
         public static final int adView=0x7f0a001b;
         public static final int adjust_height=0x7f0a0000;
         public static final int adjust_width=0x7f0a0001;
-        public static final int contactText=0x7f0a0022;
-        public static final int designed=0x7f0a0025;
+        public static final int contactText=0x7f0a0021;
         public static final int displayDate=0x7f0a0008;
         public static final int do_kalendara=0x7f0a0005;
-        public static final int emaily=0x7f0a0021;
         public static final int kontrolaZavieckovania=0x7f0a000e;
         public static final int liahnutie=0x7f0a0012;
         public static final int linearLayout=0x7f0a001c;
@@ -103,7 +101,7 @@ containing a value of this type.
         public static final int preveseniePlastu=0x7f0a0009;
         public static final int pripravaSadky=0x7f0a000b;
         public static final int prveNakladeneVajicka=0x7f0a001a;
-        public static final int settings=0x7f0a0027;
+        public static final int settings=0x7f0a0024;
         public static final int skolkovanie=0x7f0a0010;
         public static final int snubnePrelety=0x7f0a0018;
         public static final int textDate=0x7f0a0007;
@@ -112,9 +110,8 @@ containing a value of this type.
         public static final int vaznenieDo=0x7f0a0015;
         public static final int vaznenieOd=0x7f0a0014;
         public static final int vlozenieSuse=0x7f0a000a;
-        public static final int vyvojari=0x7f0a0024;
-        public static final int vyvojariText=0x7f0a0023;
-        public static final int web=0x7f0a0026;
+        public static final int vyvojariText=0x7f0a0022;
+        public static final int web=0x7f0a0023;
         public static final int zoznam_chovov=0x7f0a001f;
         public static final int zuzitkovanieMatiek=0x7f0a0013;
     }
