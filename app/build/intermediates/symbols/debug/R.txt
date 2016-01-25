@@ -18,9 +18,16 @@ int id adView 0x7f0a001b
 int id adjust_height 0x7f0a0000
 int id adjust_width 0x7f0a0001
 <<<<<<< HEAD
+<<<<<<< HEAD
 int id contactText 0x7f0a0021
 int id displayDate 0x7f0a0008
 int id do_kalendara 0x7f0a0005
+=======
+int id contact_text 0x7f0a0020
+int id displayDate 0x7f0a0008
+int id do_kalendara 0x7f0a0005
+int id email 0x7f0a0021
+>>>>>>> parent of eff2430... uprava  vzhlad sekcia vyvoj
 =======
 int id contact_text 0x7f0a0020
 int id displayDate 0x7f0a0008
@@ -45,7 +52,11 @@ int id preveseniePlastu 0x7f0a0009
 int id pripravaSadky 0x7f0a000b
 int id prveNakladeneVajicka 0x7f0a001a
 <<<<<<< HEAD
+<<<<<<< HEAD
 int id settings 0x7f0a0024
+=======
+int id settings 0x7f0a0023
+>>>>>>> parent of eff2430... uprava  vzhlad sekcia vyvoj
 =======
 int id settings 0x7f0a0023
 >>>>>>> parent of eff2430... uprava  vzhlad sekcia vyvoj
@@ -58,9 +69,14 @@ int id vaznenieDo 0x7f0a0015
 int id vaznenieOd 0x7f0a0014
 int id vlozenieSuse 0x7f0a000a
 <<<<<<< HEAD
+<<<<<<< HEAD
 int id vyvojariText 0x7f0a0022
 int id web 0x7f0a0023
 int id zoznam_chovov 0x7f0a001f
+=======
+int id web 0x7f0a0022
+int id zoznam_chovov 0x7f0a001e
+>>>>>>> parent of eff2430... uprava  vzhlad sekcia vyvoj
 =======
 int id web 0x7f0a0022
 int id zoznam_chovov 0x7f0a001e

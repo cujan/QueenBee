@@ -11,6 +11,7 @@
                     "endOffset": 112
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "G:\\QueenBee\\QueenBee\\app\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 3,
@@ -19,6 +20,9 @@
                         "endColumn": 61,
                         "endOffset": 116
                     }
+=======
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-en\\strings.xml"
+>>>>>>> parent of eff2430... uprava  vzhlad sekcia vyvoj
                 }
             },
             {
@@ -30,6 +34,7 @@
                     "endOffset": 195
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "G:\\QueenBee\\QueenBee\\app\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 42,
@@ -38,6 +43,9 @@
                         "endColumn": 82,
                         "endOffset": 3087
                     }
+=======
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-en\\strings.xml"
+>>>>>>> parent of eff2430... uprava  vzhlad sekcia vyvoj
                 }
             },
             {
@@ -49,6 +57,7 @@
                     "endOffset": 283
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "G:\\QueenBee\\QueenBee\\app\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 43,
@@ -57,6 +66,9 @@
                         "endColumn": 87,
                         "endOffset": 3176
                     }
+=======
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-en\\strings.xml"
+>>>>>>> parent of eff2430... uprava  vzhlad sekcia vyvoj
                 }
             },
             {
@@ -68,6 +80,7 @@
                     "endOffset": 325
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "G:\\QueenBee\\QueenBee\\app\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 49,
@@ -76,6 +89,9 @@
                         "endColumn": 41,
                         "endOffset": 3622
                     }
+=======
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-en\\strings.xml"
+>>>>>>> parent of eff2430... uprava  vzhlad sekcia vyvoj
                 }
             },
             {
@@ -87,6 +103,7 @@
                     "endOffset": 404
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "G:\\QueenBee\\QueenBee\\app\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 11,
@@ -95,6 +112,9 @@
                         "endColumn": 78,
                         "endOffset": 621
                     }
+=======
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-en\\strings.xml"
+>>>>>>> parent of eff2430... uprava  vzhlad sekcia vyvoj
                 }
             },
             {
@@ -106,6 +126,7 @@
                     "endOffset": 473
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "G:\\QueenBee\\QueenBee\\app\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 45,
@@ -114,6 +135,9 @@
                         "endColumn": 68,
                         "endOffset": 3345
                     }
+=======
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-en\\strings.xml"
+>>>>>>> parent of eff2430... uprava  vzhlad sekcia vyvoj
                 }
             },
             {
@@ -126,6 +150,7 @@
                     "endOffset": 629
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "G:\\QueenBee\\QueenBee\\app\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 53,
@@ -135,6 +160,9 @@
                         "endColumn": 13,
                         "endOffset": 4215
                     }
+=======
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-en\\strings.xml"
+>>>>>>> parent of eff2430... uprava  vzhlad sekcia vyvoj
                 }
             },
             {
@@ -146,6 +174,7 @@
                     "endOffset": 709
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "G:\\QueenBee\\QueenBee\\app\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 34,
@@ -154,6 +183,9 @@
                         "endColumn": 79,
                         "endOffset": 2486
                     }
+=======
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-en\\strings.xml"
+>>>>>>> parent of eff2430... uprava  vzhlad sekcia vyvoj
                 }
             },
             {
@@ -165,6 +197,7 @@
                     "endOffset": 810
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "G:\\QueenBee\\QueenBee\\app\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 35,
@@ -173,6 +206,9 @@
                         "endColumn": 100,
                         "endOffset": 2588
                     }
+=======
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-en\\strings.xml"
+>>>>>>> parent of eff2430... uprava  vzhlad sekcia vyvoj
                 }
             },
             {
@@ -184,6 +220,7 @@
                     "endOffset": 886
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "G:\\QueenBee\\QueenBee\\app\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 41,
@@ -192,6 +229,9 @@
                         "endColumn": 75,
                         "endOffset": 3003
                     }
+=======
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-en\\strings.xml"
+>>>>>>> parent of eff2430... uprava  vzhlad sekcia vyvoj
                 }
             },
             {
@@ -203,6 +243,7 @@
                     "endOffset": 965
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "G:\\QueenBee\\QueenBee\\app\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 32,
@@ -211,6 +252,9 @@
                         "endColumn": 78,
                         "endOffset": 2263
                     }
+=======
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-en\\strings.xml"
+>>>>>>> parent of eff2430... uprava  vzhlad sekcia vyvoj
                 }
             },
             {
@@ -222,6 +266,7 @@
                     "endOffset": 1106
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "G:\\QueenBee\\QueenBee\\app\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 33,
@@ -230,6 +275,9 @@
                         "endColumn": 140,
                         "endOffset": 2405
                     }
+=======
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-en\\strings.xml"
+>>>>>>> parent of eff2430... uprava  vzhlad sekcia vyvoj
                 }
             },
             {
@@ -241,6 +289,7 @@
                     "endOffset": 1195
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "G:\\QueenBee\\QueenBee\\app\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 36,
@@ -249,6 +298,9 @@
                         "endColumn": 88,
                         "endOffset": 2678
                     }
+=======
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-en\\strings.xml"
+>>>>>>> parent of eff2430... uprava  vzhlad sekcia vyvoj
                 }
             },
             {
@@ -260,6 +312,7 @@
                     "endOffset": 1253
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "G:\\QueenBee\\QueenBee\\app\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 37,
@@ -268,6 +321,9 @@
                         "endColumn": 57,
                         "endOffset": 2737
                     }
+=======
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-en\\strings.xml"
+>>>>>>> parent of eff2430... uprava  vzhlad sekcia vyvoj
                 }
             },
             {
@@ -279,6 +335,7 @@
                     "endOffset": 1351
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "G:\\QueenBee\\QueenBee\\app\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 44,
@@ -287,6 +344,9 @@
                         "endColumn": 97,
                         "endOffset": 3275
                     }
+=======
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-en\\strings.xml"
+>>>>>>> parent of eff2430... uprava  vzhlad sekcia vyvoj
                 }
             },
             {
@@ -298,6 +358,7 @@
                     "endOffset": 1429
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "G:\\QueenBee\\QueenBee\\app\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 9,
@@ -306,6 +367,9 @@
                         "endColumn": 77,
                         "endOffset": 454
                     }
+=======
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-en\\strings.xml"
+>>>>>>> parent of eff2430... uprava  vzhlad sekcia vyvoj
                 }
             },
             {
@@ -317,6 +381,7 @@
                     "endOffset": 1492
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "G:\\QueenBee\\QueenBee\\app\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 38,
@@ -325,6 +390,9 @@
                         "endColumn": 62,
                         "endOffset": 2801
                     }
+=======
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-en\\strings.xml"
+>>>>>>> parent of eff2430... uprava  vzhlad sekcia vyvoj
                 }
             },
             {
@@ -336,6 +404,7 @@
                     "endOffset": 1557
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "G:\\QueenBee\\QueenBee\\app\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 39,
@@ -344,6 +413,9 @@
                         "endColumn": 64,
                         "endOffset": 2867
                     }
+=======
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-en\\strings.xml"
+>>>>>>> parent of eff2430... uprava  vzhlad sekcia vyvoj
                 }
             },
             {
@@ -355,6 +427,7 @@
                     "endOffset": 1628
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "G:\\QueenBee\\QueenBee\\app\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 17,
@@ -363,6 +436,9 @@
                         "endColumn": 70,
                         "endOffset": 1140
                     }
+=======
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-en\\strings.xml"
+>>>>>>> parent of eff2430... uprava  vzhlad sekcia vyvoj
                 }
             },
             {
@@ -374,6 +450,7 @@
                     "endOffset": 1683
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "G:\\QueenBee\\QueenBee\\app\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 21,
@@ -382,6 +459,9 @@
                         "endColumn": 54,
                         "endOffset": 1433
                     }
+=======
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-en\\strings.xml"
+>>>>>>> parent of eff2430... uprava  vzhlad sekcia vyvoj
                 }
             },
             {
@@ -393,6 +473,7 @@
                     "endOffset": 1759
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "G:\\QueenBee\\QueenBee\\app\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 50,
@@ -401,6 +482,9 @@
                         "endColumn": 75,
                         "endOffset": 3699
                     }
+=======
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-en\\strings.xml"
+>>>>>>> parent of eff2430... uprava  vzhlad sekcia vyvoj
                 }
             },
             {
@@ -412,6 +496,7 @@
                     "endOffset": 1870
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "G:\\QueenBee\\QueenBee\\app\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 46,
@@ -420,6 +505,9 @@
                         "endColumn": 110,
                         "endOffset": 3457
                     }
+=======
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-en\\strings.xml"
+>>>>>>> parent of eff2430... uprava  vzhlad sekcia vyvoj
                 }
             },
             {
@@ -431,6 +519,7 @@
                     "endOffset": 1928
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "G:\\QueenBee\\QueenBee\\app\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 40,
@@ -439,6 +528,9 @@
                         "endColumn": 57,
                         "endOffset": 2926
                     }
+=======
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-en\\strings.xml"
+>>>>>>> parent of eff2430... uprava  vzhlad sekcia vyvoj
                 }
             },
             {
@@ -450,6 +542,7 @@
                     "endOffset": 1973
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "G:\\QueenBee\\QueenBee\\app\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 47,
@@ -458,6 +551,9 @@
                         "endColumn": 44,
                         "endOffset": 3503
                     }
+=======
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-en\\strings.xml"
+>>>>>>> parent of eff2430... uprava  vzhlad sekcia vyvoj
                 }
             },
             {
@@ -469,6 +565,7 @@
                     "endOffset": 2048
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "G:\\QueenBee\\QueenBee\\app\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 48,
@@ -477,6 +574,9 @@
                         "endColumn": 74,
                         "endOffset": 3579
                     }
+=======
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-en\\strings.xml"
+>>>>>>> parent of eff2430... uprava  vzhlad sekcia vyvoj
                 }
             },
             {
@@ -488,6 +588,7 @@
                     "endOffset": 2098
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "G:\\QueenBee\\QueenBee\\app\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 5,
@@ -496,6 +597,9 @@
                         "endColumn": 49,
                         "endOffset": 214
                     }
+=======
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-en\\strings.xml"
+>>>>>>> parent of eff2430... uprava  vzhlad sekcia vyvoj
                 }
             },
             {
@@ -507,6 +611,7 @@
                     "endOffset": 2155
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "G:\\QueenBee\\QueenBee\\app\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 7,
@@ -515,6 +620,9 @@
                         "endColumn": 56,
                         "endOffset": 311
                     }
+=======
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-en\\strings.xml"
+>>>>>>> parent of eff2430... uprava  vzhlad sekcia vyvoj
                 }
             },
             {
@@ -526,6 +634,7 @@
                     "endOffset": 2189
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "G:\\QueenBee\\QueenBee\\app\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 6,
@@ -534,6 +643,9 @@
                         "endColumn": 33,
                         "endOffset": 249
                     }
+=======
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-en\\strings.xml"
+>>>>>>> parent of eff2430... uprava  vzhlad sekcia vyvoj
                 }
             },
             {
@@ -545,6 +657,7 @@
                     "endOffset": 2463
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "G:\\QueenBee\\QueenBee\\app\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 52,
@@ -553,6 +666,9 @@
                         "endColumn": 273,
                         "endOffset": 4054
                     }
+=======
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-en\\strings.xml"
+>>>>>>> parent of eff2430... uprava  vzhlad sekcia vyvoj
                 }
             },
             {
@@ -564,6 +680,7 @@
                     "endOffset": 2538
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "G:\\QueenBee\\QueenBee\\app\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 26,
@@ -572,6 +689,9 @@
                         "endColumn": 74,
                         "endOffset": 1806
                     }
+=======
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-en\\strings.xml"
+>>>>>>> parent of eff2430... uprava  vzhlad sekcia vyvoj
                 }
             },
             {
@@ -583,6 +703,7 @@
                     "endOffset": 2613
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "G:\\QueenBee\\QueenBee\\app\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 25,
@@ -591,6 +712,9 @@
                         "endColumn": 74,
                         "endOffset": 1730
                     }
+=======
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-en\\strings.xml"
+>>>>>>> parent of eff2430... uprava  vzhlad sekcia vyvoj
                 }
             },
             {
@@ -602,6 +726,7 @@
                     "endOffset": 2708
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "G:\\QueenBee\\QueenBee\\app\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 15,
@@ -610,6 +735,9 @@
                         "endColumn": 94,
                         "endOffset": 980
                     }
+=======
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-en\\strings.xml"
+>>>>>>> parent of eff2430... uprava  vzhlad sekcia vyvoj
                 }
             },
             {
@@ -621,6 +749,7 @@
                     "endOffset": 2795
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "G:\\QueenBee\\QueenBee\\app\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 16,
@@ -629,6 +758,9 @@
                         "endColumn": 86,
                         "endOffset": 1068
                     }
+=======
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-en\\strings.xml"
+>>>>>>> parent of eff2430... uprava  vzhlad sekcia vyvoj
                 }
             },
             {
@@ -640,6 +772,7 @@
                     "endOffset": 2882
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "G:\\QueenBee\\QueenBee\\app\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 18,
@@ -648,6 +781,9 @@
                         "endColumn": 86,
                         "endOffset": 1228
                     }
+=======
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-en\\strings.xml"
+>>>>>>> parent of eff2430... uprava  vzhlad sekcia vyvoj
                 }
             },
             {
@@ -659,6 +795,7 @@
                     "endOffset": 2969
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "G:\\QueenBee\\QueenBee\\app\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 20,
@@ -667,6 +804,9 @@
                         "endColumn": 86,
                         "endOffset": 1377
                     }
+=======
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-en\\strings.xml"
+>>>>>>> parent of eff2430... uprava  vzhlad sekcia vyvoj
                 }
             },
             {
@@ -678,6 +818,7 @@
                     "endOffset": 3063
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "G:\\QueenBee\\QueenBee\\app\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 28,
@@ -686,6 +827,9 @@
                         "endColumn": 93,
                         "endOffset": 1977
                     }
+=======
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-en\\strings.xml"
+>>>>>>> parent of eff2430... uprava  vzhlad sekcia vyvoj
                 }
             },
             {
@@ -697,6 +841,7 @@
                     "endOffset": 3144
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "G:\\QueenBee\\QueenBee\\app\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 12,
@@ -705,6 +850,9 @@
                         "endColumn": 80,
                         "endOffset": 703
                     }
+=======
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-en\\strings.xml"
+>>>>>>> parent of eff2430... uprava  vzhlad sekcia vyvoj
                 }
             },
             {
@@ -716,6 +864,7 @@
                     "endOffset": 3214
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "G:\\QueenBee\\QueenBee\\app\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 30,
@@ -724,6 +873,9 @@
                         "endColumn": 69,
                         "endOffset": 2120
                     }
+=======
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-en\\strings.xml"
+>>>>>>> parent of eff2430... uprava  vzhlad sekcia vyvoj
                 }
             },
             {
@@ -735,6 +887,7 @@
                     "endOffset": 3313
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "G:\\QueenBee\\QueenBee\\app\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 14,
@@ -743,6 +896,9 @@
                         "endColumn": 98,
                         "endOffset": 884
                     }
+=======
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-en\\strings.xml"
+>>>>>>> parent of eff2430... uprava  vzhlad sekcia vyvoj
                 }
             },
             {
@@ -754,6 +910,7 @@
                     "endOffset": 3384
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "G:\\QueenBee\\QueenBee\\app\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 29,
@@ -762,6 +919,9 @@
                         "endColumn": 70,
                         "endOffset": 2049
                     }
+=======
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-en\\strings.xml"
+>>>>>>> parent of eff2430... uprava  vzhlad sekcia vyvoj
                 }
             },
             {
@@ -773,6 +933,7 @@
                     "endOffset": 3430
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "G:\\QueenBee\\QueenBee\\app\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 4,
@@ -781,6 +942,9 @@
                         "endColumn": 45,
                         "endOffset": 163
                     }
+=======
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-en\\strings.xml"
+>>>>>>> parent of eff2430... uprava  vzhlad sekcia vyvoj
                 }
             },
             {
@@ -792,6 +956,7 @@
                     "endOffset": 3490
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "G:\\QueenBee\\QueenBee\\app\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 19,
@@ -800,6 +965,9 @@
                         "endColumn": 59,
                         "endOffset": 1289
                     }
+=======
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-en\\strings.xml"
+>>>>>>> parent of eff2430... uprava  vzhlad sekcia vyvoj
                 }
             },
             {
@@ -811,6 +979,7 @@
                     "endOffset": 3565
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "G:\\QueenBee\\QueenBee\\app\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 27,
@@ -819,6 +988,9 @@
                         "endColumn": 74,
                         "endOffset": 1882
                     }
+=======
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-en\\strings.xml"
+>>>>>>> parent of eff2430... uprava  vzhlad sekcia vyvoj
                 }
             },
             {
@@ -830,6 +1002,7 @@
                     "endOffset": 3627
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "G:\\QueenBee\\QueenBee\\app\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 31,
@@ -838,6 +1011,9 @@
                         "endColumn": 61,
                         "endOffset": 2183
                     }
+=======
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-en\\strings.xml"
+>>>>>>> parent of eff2430... uprava  vzhlad sekcia vyvoj
                 }
             },
             {
@@ -849,6 +1025,7 @@
                     "endOffset": 3692
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "G:\\QueenBee\\QueenBee\\app\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 24,
@@ -857,6 +1034,9 @@
                         "endColumn": 64,
                         "endOffset": 1654
                     }
+=======
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-en\\strings.xml"
+>>>>>>> parent of eff2430... uprava  vzhlad sekcia vyvoj
                 }
             },
             {
@@ -868,6 +1048,7 @@
                     "endOffset": 3761
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "G:\\QueenBee\\QueenBee\\app\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 23,
@@ -876,6 +1057,9 @@
                         "endColumn": 68,
                         "endOffset": 1588
                     }
+=======
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-en\\strings.xml"
+>>>>>>> parent of eff2430... uprava  vzhlad sekcia vyvoj
                 }
             },
             {
@@ -887,6 +1071,7 @@
                     "endOffset": 3847
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "G:\\QueenBee\\QueenBee\\app\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 10,
@@ -895,6 +1080,9 @@
                         "endColumn": 85,
                         "endOffset": 541
                     }
+=======
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-en\\strings.xml"
+>>>>>>> parent of eff2430... uprava  vzhlad sekcia vyvoj
                 }
             },
             {
@@ -906,6 +1094,7 @@
                     "endOffset": 3927
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "G:\\QueenBee\\QueenBee\\app\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 13,
@@ -914,6 +1103,9 @@
                         "endColumn": 79,
                         "endOffset": 784
                     }
+=======
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-en\\strings.xml"
+>>>>>>> parent of eff2430... uprava  vzhlad sekcia vyvoj
                 }
             },
             {
@@ -925,6 +1117,7 @@
                     "endOffset": 4006
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "G:\\QueenBee\\QueenBee\\app\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 51,
@@ -933,6 +1126,9 @@
                         "endColumn": 78,
                         "endOffset": 3779
                     }
+=======
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-en\\strings.xml"
+>>>>>>> parent of eff2430... uprava  vzhlad sekcia vyvoj
                 }
             },
             {
@@ -944,6 +1140,7 @@
                     "endOffset": 4065
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "G:\\QueenBee\\QueenBee\\app\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 8,
@@ -952,6 +1149,9 @@
                         "endColumn": 58,
                         "endOffset": 375
                     }
+=======
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-en\\strings.xml"
+>>>>>>> parent of eff2430... uprava  vzhlad sekcia vyvoj
                 }
             },
             {
@@ -963,6 +1163,7 @@
                     "endOffset": 4149
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "G:\\QueenBee\\QueenBee\\app\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 22,
@@ -971,6 +1172,9 @@
                         "endColumn": 83,
                         "endOffset": 1518
                     }
+=======
+                    "file": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\values-en\\strings.xml"
+>>>>>>> parent of eff2430... uprava  vzhlad sekcia vyvoj
                 }
             }
         ]
