@@ -34,8 +34,8 @@
     <string name="date_text"><u>Insert the date by clicking here</u></string>
     <string name="decline">Decline</string>
     <string name="delete">Delete record from database</string>
+    <string name="designed">Designed by Radovan Pranda (Deltoy)</string>
     <string name="detail">Show schedules for the record</string>
-    <string name="email">holubjan@gmail.com kocan.marek@gmail.com</string>
     <string name="ga_trackingId">UA-40195333-1</string>
     <string name="kontakt_text">Contact</string>
     <string name="kontrola_zavieckovania">Maybe check capping</string>
@@ -70,6 +70,8 @@
     <string name="vaznenie_od">	Imprisonment from oddielkov</string>
     <string name="vlozenie_plemeniva">Date of adding breed material in ponds</string>
     <string name="vlozenie_suse">Insert a land base for farming mother</string>
+    <string name="vyvojari">a HaK Solutions</string>
+    <string name="vyvojariText">Vývojári:</string>
     <string name="writing_to_calendar">Write an event to the calendar</string>
     <string name="zoznam_chovov">List of holdings</string>
     <string name="zuzitkovanie_matiek">Marking and utilization of maternal</string>
