@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="C:\Users\Holub\AndroidStudioProjects\QueenB\app\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="C:\Users\Holub\AndroidStudioProjects\QueenB\app\src\debug\jniLibs"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="G:\QueenBee\QueenBee\app\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="G:\QueenBee\QueenBee\app\src\debug\jniLibs"/></dataSet></merger>

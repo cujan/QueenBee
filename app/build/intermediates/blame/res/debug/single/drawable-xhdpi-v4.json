@@ -1,5 +1,9 @@
 [
     {
+        "merged": "G:\\QueenBee\\QueenBee\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "G:\\QueenBee\\QueenBee\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
         "merged": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
         "source": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
     },
@@ -8,8 +12,20 @@
         "source": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\drawable-xhdpi\\btn_novychov_pressed.png"
     },
     {
+        "merged": "G:\\QueenBee\\QueenBee\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_novychov_pressed.png",
+        "source": "G:\\QueenBee\\QueenBee\\app\\src\\main\\res\\drawable-xhdpi\\btn_novychov_pressed.png"
+    },
+    {
         "merged": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_novychov_normal.png",
         "source": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\src\\main\\res\\drawable-xhdpi\\btn_novychov_normal.png"
+    },
+    {
+        "merged": "G:\\QueenBee\\QueenBee\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_novychov_normal.png",
+        "source": "G:\\QueenBee\\QueenBee\\app\\src\\main\\res\\drawable-xhdpi\\btn_novychov_normal.png"
+    },
+    {
+        "merged": "G:\\QueenBee\\QueenBee\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\background_uvod.png",
+        "source": "G:\\QueenBee\\QueenBee\\app\\src\\main\\res\\drawable-xhdpi\\background_uvod.png"
     },
     {
         "merged": "C:\\Users\\Holub\\AndroidStudioProjects\\QueenB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\background_uvod.png",
